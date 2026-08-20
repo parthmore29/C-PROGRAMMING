@@ -2,13 +2,7 @@
 
 Hi, I'm Parth.
 
-This repository contains my C programming practice.
-
-## Topics
-- Basic Programs
-- Loops
-- Arrays
-- Bubble Sort
+This repository contains my topic wise C programming learning and practice.
 
 ## Goal
-Improve my C programming and prepare for DSA.
+Build my C programming skills and prepare for DSA.
