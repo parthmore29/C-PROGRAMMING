@@ -68,7 +68,7 @@ int main()
             }
             else
             {
-                printf("\nInvalid command!\n");
+                printf("\nInvalid command try again!\n");
             }
         }
     }
